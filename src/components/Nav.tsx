@@ -86,8 +86,8 @@ const Nav = () => {
                         icon={<SiTwitter className="w-6 h-6 cursor-pointer" />}
                     />
                     <LinkButton
-                        href={"https://instagram.com/slorixsh"}
-                        icon={<SiInstagram className="w-6 h-6 cursor-pointer" />}
+                        href={"https://linkedin.com/in/slorixsh"}
+                        icon={<SiLinkedin className="w-6 h-6 cursor-pointer" />}
                     />
                     <LinkButton href={"mailto:hello@cnrad.dev"} icon={<FiMail className="w-6 h-6 cursor-pointer" />} />
                 </div>
