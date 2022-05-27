@@ -3,7 +3,7 @@ import { AiOutlineStar } from "react-icons/ai";
 import { BiGitRepoForked } from "react-icons/bi";
 
 const Languages = {
-    TypeScript: "#2b7489",
+    Javascript: "#2b7489",
     Python: "#3572A5",
 };
 
